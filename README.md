@@ -6,7 +6,8 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Backend-focused Software Developer with deep expertise in **.NET Core & C#**
+- 🧠 Strong **Data Structures & Algorithms** foundation - applied to backend design, API optimization, and system scalability
+- 💻 Backend-focused Software Developer with deep expertise in **.NET Core & C#** and **Java**
 - 🧱 Strong foundation in **Clean Architecture, SOLID Principles, and Microservices**
 - 🤖 Building production AI systems - **RAG pipelines, LLMs, Prompt Engineering**
 - ☁️ Hands-on with **AWS (ECS Fargate, ECR, S3, CloudWatch)** and **Docker**
@@ -16,10 +17,26 @@
 
 ---
 
+## 🧠 Core Strength: Data Structures & Algorithms
+
+I apply DSA concepts directly while designing APIs, optimizing backend logic, and building scalable systems.
+
+- **Arrays, Strings, Hash Maps** - used in data processing and API response optimization
+- **Linked Lists, Stacks, Queues** - applied in workflow and task management systems
+- **Trees & Graphs (BFS, DFS)** - used in routing logic and dependency resolution
+- **Recursion & Backtracking** - applied in rule-based systems and configuration engines
+- **Sorting & Searching** - optimized SQL queries handling 1M+ records
+- **Time & Space Complexity** - performance-aware design across all backend systems
+
+---
+
 ## 🛠️ Tech Stack
 
+### Languages
+- C#, Java, Python, JavaScript, SQL, C++, VB.NET
+
 ### Backend & Systems
-- C#, .NET Core 6/7/8, ASP.NET Core
+- .NET Core 6/7/8, ASP.NET Core, Spring Boot (Java)
 - REST APIs, Web API, Entity Framework Core
 - Clean Architecture, DDD, Microservices
 - PostgreSQL, SQL Server, MongoDB
@@ -87,6 +104,7 @@
 
 - 🥇 **3+ years** at Octave - modernized Smart3Dx routing modules serving **1,000+ engineers**
 - 📉 Reduced API response latency by **35%** across 20+ RESTful backend services
+- 🗄️ Optimized SQL queries handling **1M+ records**, reducing execution time by **45%**
 - 🧪 Automated **200+ regression test cases**, improving coverage by **30%**
 - 🎯 Built end-to-end RAG pipeline deployed on **AWS ECS Fargate** with full CI/CD
 - 🏅 Received **"Pat on the Back"** award twice for outstanding production bug resolution
@@ -109,4 +127,4 @@
 
 ---
 
-⭐ *I enjoy building reliable, production-grade systems - whether it's a high-throughput .NET backend or an end-to-end AI pipeline deployed on AWS.*
+⭐ *I enjoy building reliable, production-grade systems - whether it's a high-throughput .NET backend, a Java microservice, or an end-to-end AI pipeline deployed on AWS.*
