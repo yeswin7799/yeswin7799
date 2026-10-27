@@ -1,6 +1,6 @@
 # Hi, I'm Yeswin 👋
 
-**Software Developer with 3+ years of experience** building scalable backend systems, RESTful APIs, and enterprise applications. Currently pursuing my **Master's in Computer Science at Purdue University** and expanding into **AI/ML engineering** - building production-grade RAG pipelines, deploying on AWS, and working with LLMs.
+**Software Developer with 5+ years of experience** building scalable backend systems, RESTful APIs, and enterprise applications. Currently pursuing my **Master's in Computer Science at Purdue University** and expanding into **AI/ML engineering** - building production-grade RAG pipelines, deploying on AWS, and working with LLMs.
 
 ---
 
